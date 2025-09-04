@@ -106,7 +106,7 @@ File: src/predict.py
 
 ```
 # Clone the repository
-git clone https://github.com/your-username/CSGO_Round_Winner_Prediction.git
+git clone https://github.com/Subith-Varghese/LDA_csgo-round-winner-prediction.git
 
 # Navigate to the project directory
 cd CSGO_Round_Winner_Prediction
